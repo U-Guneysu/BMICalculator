@@ -1,12 +1,12 @@
 # BMI (Body Mass Index) Calculator (C# Project - Windows Forms)
 
-Welcome to **BMI **, a simple Windows Forms application built with **C#**. This app allows users to input a number and instantly checks whether it's odd or even, providing immediate feedback with a clean and user-friendly interface.
+Welcome to **BMI Calculator**, a simple Windows Forms application built with **C#**. This app allows users to calculate their Body Mass Index (BMI) based on their input and provides instant feedback with a clean and user-friendly interface.
 
 ## ✨ Features
 
-- Interactive User Input: The user inputs their informations (name, age, height, weight etc.), and the BMI result is displayed with a message box.
-- Instant BMI Calculation: The BMI is calculated instantly based on the user's input and displayed with a message box.
-- User-Friendly GUI: A minimalistic interface designed with Windows Forms.
+- **Interactive User Input**: The user inputs their information (name, age, height, weight, etc.), and the BMI result is displayed with a message box.
+- **Instant BMI Calculation**: The BMI is calculated instantly based on the user's input and displayed with a message box.
+- **User-Friendly GUI**: A minimalistic interface designed with Windows Forms.
 
 ## 🛠 Installation
 
@@ -24,8 +24,8 @@ To get started, simply clone the repository and set up the project on your machi
 ## 🚀 How to Use
 
 1. **Launch** the application.
-2. **Enter** fill the blanks and hit enter.
-3. **Hit** Enter, and the app will display whether the number is Odd or Even.
+2. **Fill in the blanks** with your details (name, age, height, weight, etc.).
+3. **Hit** Enter, and the app will calculate and display your BMI with a message box.
 
 ## 🖥 Technologies Used
 
@@ -35,4 +35,4 @@ To get started, simply clone the repository and set up the project on your machi
 
 ---
 
-Thank you for checking out project! I hope you enjoy using it. 
+Thank you for checking out my project! I hope you enjoy using it.
